@@ -11,6 +11,6 @@ i: 9090
 j: /etc/tomcat10/server.xml
 k: restarted
 l: 50
-m: http://172.31.8.104:9090
+m: http://172.31.10.142:9090
 n: http://172.31.6.200:9090
 o: 200
